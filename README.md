@@ -1,2 +1,4 @@
-# minesweeper-kata
-Los Alamos Coding Dojo Meeting #3 -- Minesweeper Kata
+codingdojo
+==========
+
+This repo contains files for 3rd Los Alamos Coding Dojo, in which the minesweeper kata was done.
